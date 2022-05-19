@@ -1,7 +1,7 @@
 <h1>laravel | InertiaJs | React | Typescript | Tailwindcss</h1>
 
 
-<h3>Installation Guid</h3>
+<h3>Installation Guide</h3>
 - Go to the folder application using cd command on your cmd or terminal
 
 `Run composer` install on your cmd or terminal
