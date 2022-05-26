@@ -4,7 +4,7 @@
 
 - Go to the folder application using cd command on your cmd or terminal
 
-- install on your cmd or terminal : `Run composer` 
+- install on your cmd or terminal : Run `composer` 
 
 - Copy .env.example file to .env on the root folder. You can type copy .env.example .env if using command prompt Windows or `cp .env.example .env` if using terminal, Ubuntu.
 
@@ -12,8 +12,8 @@
 
 - now Lastely use the Commands Below to run the project :
 
- 1) `Run php artisan key:generate`
+ 1) Run `php artisan key:generate`
 
- 2) `Run php artisan migrate`
+ 2) Run `php artisan migrate`
 
- 3) `Run php artisan serve`
+ 3) Run `php artisan serve`
